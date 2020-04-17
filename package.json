@@ -1,0 +1,20 @@
+{
+  "name": "koa-study",
+  "version": "1.0.0",
+  "description": "study koa",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "zry",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.8.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0"
+  }
+}
